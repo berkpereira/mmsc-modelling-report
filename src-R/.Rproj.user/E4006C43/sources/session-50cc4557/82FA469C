@@ -1,0 +1,26 @@
+{
+    "id": "82FA469C",
+    "path": "~/repos/r-experiments/week5/modelling-experiments.R",
+    "project_path": "modelling-experiments.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1709054709354.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,14",
+        "scrollLine": "0"
+    },
+    "folds": "52|23|54|0|\n160|69|183|0|\n185|30|201|0|\n203|30|210|0|\n212|96|227|0|\n231|103|244|0|\n279|54|325|0|\n460|82|537|0|\n",
+    "lastKnownWriteTime": 1714336875,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1714336875933,
+    "read_only": false,
+    "read_only_alternatives": []
+}
